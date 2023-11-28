@@ -1,0 +1,71 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html입니다",
+      "body": "html is ..."
+    },
+    {
+      "id": 2,
+      "title": "css입니다",
+      "body": "css is ..."
+    },
+    {
+      "title": "제목1",
+      "body": "제목1의내용",
+      "id": 3
+    },
+    {
+      "title": "리액트",
+      "body": "리액투...",
+      "id": 4
+    },
+    {
+      "title": "넥스트js",
+      "body": "암온더낷ㅌ",
+      "id": 5
+    },
+    {
+      "title": "6666",
+      "body": "6666",
+      "id": 6
+    },
+    {
+      "title": "앙농7번",
+      "body": "ㅎㅇㅋ",
+      "id": 7
+    },
+    {
+      "title": "머야",
+      "body": "ㅋ",
+      "id": 8
+    },
+    {
+      "title": "되랑ㅋ",
+      "body": "ㄷㄹㅋ",
+      "id": 9
+    },
+    {
+      "title": "십번",
+      "body": "111000",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
